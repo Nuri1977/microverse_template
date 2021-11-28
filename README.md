@@ -1,27 +1,44 @@
-# Hello Microverse
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices I learned . All about gitflow , linters.
+# Project Name
 
-set up a new repository and prepare it for development using best practices.
+> One paragraph statement about the project.
+
+![screenshot](https://github.githubassets.com/images/modules/site/social-cards/enterprise.png)
+
+Additional description about the project and its features.
 
 ## Built With
 
-- HTML
-- CSS
-- HTML & CSS Linter
+- Major languages
+- Frameworks
+- Technologies used
+
+## Live Demo
+
+[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**Please get your browser update. To get a local copy up and running follow these simple steps.**
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-Run the command below from the Terminal:
 
-### git clone <URL> in your terminal
+To get a local copy up and running follow these simple example steps.
 
-### cd hello-microverse
+### Prerequisites
 
-### start index.html
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
 
 
 ## Authors
@@ -32,12 +49,11 @@ Run the command below from the Terminal:
 - Twitter: [@LackaNuri](https://twitter.com/LackaNuri)
 - LinkedIn: [@LackaNuri](https://www.linkedin.com/in/nuri-lacka-7141b01ba/)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -45,9 +61,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Entire Microverse team
-- My learning and coding partners
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
-This project is MIT licensed.
+This project is [MIT](./MIT.md) licensed.
