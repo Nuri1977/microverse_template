@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](https://github.githubassets.com/images/modules/site/social-cards/enterprise.png)
+![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
@@ -66,5 +66,3 @@ Give a ⭐️ if you like this project!
 - etc
 
 ## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
